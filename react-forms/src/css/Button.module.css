@@ -1,0 +1,18 @@
+/* Button stylesheet css */
+
+.button {
+  border: none;
+  border-radius: 3px;
+  color: white;
+  font-size: 1.36rem;
+  width: 124px;
+  background-color: rgb(52, 189, 171);
+  padding: 6px 15px;
+  cursor: pointer;
+  outline: none;
+  margin: 5px;
+}
+
+.button:hover {
+  background-color: rgb(42, 105, 98);
+}

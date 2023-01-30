@@ -1,0 +1,10 @@
+/* Counter stylesheet css */
+
+.content {
+  text-align: center;
+}
+
+.content p {
+  font-size: 1.98em;
+  color: rgb(204, 111, 165);
+}
